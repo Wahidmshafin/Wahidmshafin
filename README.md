@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shafin
-- 👀 I’m interested in Software Enginnering and Android Development. I am pretty skilled in C, C++ and Java.
-I love contest programming.
-
-- 🌱 I’m currently learning Andoid development. I am also learing algorithm and data structure.
+- 👀 I am always eager to learn new things, especially when it comes to technology. Throughout my academic journey, I have done contest programming, honed my skill at Java, Data Structures and Algorithms, OOP and Mobile Applications Development. I also have experienced working with Rest API and front-end development.  
+- 🌱 I am confident that my strong technical and problem solving skills, coupled with my ability to work well in a team, make me a great fit for Software Engineer role.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me -> email me at wahidmshafin@gmail.com. 
